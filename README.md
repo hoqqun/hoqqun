@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,ts,rust,go,docker,arch,mysql,raspberrypi)](https://skillicons.dev)
+I am a software developer. My main area of expertise is server side.  
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,ts,rust,go,aws,docker,arch,mysql,raspberrypi)](https://skillicons.dev)
+
+### Status
+
+<img alt="most usage languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoqqun&layout=compact&count_private=true&show_icons=true&theme=dracula" />           <img alt="most usage languages" height="150px" src="https://github-readme-stats.vercel.app/api?username=hoqqun&layout=compact&count_private=true&show_icons=true&theme=dracula" />
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hoqqun&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **hoqqun/hoqqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

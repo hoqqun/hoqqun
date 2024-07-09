@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a software developer. My main area of expertise is server side.  
+Now, I am learning Rust.
 
 ### Skills
 

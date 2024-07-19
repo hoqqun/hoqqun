@@ -3,7 +3,7 @@
 I'm a japanese software developer.
 My main area of expertise is server side.
 
-⚡ Fun fact: Badminton, Pickle ball, Pizza
+⚡ Fun fact: Badminton, Pickleball, Pizza
 
 ### Skills
 
